@@ -1,4 +1,4 @@
-# badanie-jakosci-algorytmow-wyznaczania-tras-
+# badanie-jakosci-algorytmow-wyznaczania-tras
 
 ## PL.
 
